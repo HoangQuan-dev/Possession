@@ -5,7 +5,7 @@ This website is developed by using **ASP.NET MVC**, and **SQL Server** for stori
 
 Both manager and employees can use this website.
 
-*For the managers :
+***For the managers*** :
 
 **=========== Admin ===========** :
 - Create new employee account for signing in.
@@ -48,7 +48,7 @@ Both manager and employees can use this website.
 
 //Working day & Salary (Updating...)
 
-*For the employees :
+***For the employees*** :
 - Employee can update personal information, change password of employee account.
 - Simulating timekeeping by (Check in & Check out button).
 - Add application for leave.
