@@ -1,7 +1,7 @@
 # Possession
 This website is for Human Resources, including specific actors like : admin, HR Manager, Salary Manager
 
-This website is developed by using **ASP.NET MVC**, and **SQL Server** for storing database.
+Technologies in use : **ASP.NET MVC**, and **SQL Server** for storing database.
 
 Both manager and employees can use this website.
 
